@@ -1,0 +1,8 @@
+{
+    "type": "Notification_container",
+    "title": "popular",
+    "end_point": "/popular-product",
+    "dlink": "",  
+    "order": 0 ,
+  "images" : ["https://thumbs.dreamstime.com/b/word-implementation-text-made-dice-yellow-background-word-implementation-text-made-dice-yellow-background-181545038.jpg"]
+  }
