@@ -1,0 +1,72 @@
+{
+    "status": "200",
+    "message": "Section data get successful",
+    "data": [
+        {
+            "id": 1,
+            "title": "advertise",
+            "description": "this is the advertise section",
+            "keywords": "ADVERTISE",
+            "keyword_option": "",
+            "end_point": "advertise",
+            "order": 1,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "title": "slider_banner",
+            "description": "this is the banner section",
+            "keywords": "SLIDER_BANNER",
+            "keyword_option": "",
+            "end_point": "banner",
+            "order": 2,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 3,
+            "title": "categories",
+            "description": "this is the categories section",
+            "keywords": "CATEGORIES",
+            "keyword_option": "",
+            "end_point": "categories",
+            "order": 3,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "title": "trending product",
+            "description": "this is the product section",
+            "keywords": "PRODUCT",
+            "keyword_option": "trending_product",
+            "end_point": "product",
+            "order": 4,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "title": "brand",
+            "description": "this is the brand section",
+            "keywords": "BRAND",
+            "keyword_option": "",
+            "end_point": "brand",
+            "order": 5,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 6,
+            "title": "offer",
+            "description": "this is the offer section",
+            "keywords": "OFFER",
+            "keyword_option": "",
+            "end_point": "offer",
+            "order": 6,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        }
+    ]
+}
