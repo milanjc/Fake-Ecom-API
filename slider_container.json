@@ -2,29 +2,6 @@
     "status": "200",
     "message": "Banner data get successful",
     "data": [
-        {
-            "id": 1,
-            "title": "test1",
-            "description": "this is the test banner1",
-            "image": "https://images.freeimages.com/images/large-previews/71c/seesteg-1639956.jpg",
-            "showtype": "mobile",
-            "status": "active"
-        },
-        {
-            "id": 2,
-            "title": "Zara",
-            "description": "this is the test banner1",
-            "image": "https://images.freeimages.com/images/large-previews/895/iq-1000-1641855.jpg",
-            "showtype": "mobile",
-            "status": "active"
-        },
-         {
-            "id": 3,
-            "title": "Zara",
-            "description": "this is the test banner1",
-            "image": "https://images.freeimages.com/images/large-previews/537/new-dawn-1641926.jpg",
-            "showtype": "mobile",
-            "status": "active"
-        }
+       
     ]
 }
