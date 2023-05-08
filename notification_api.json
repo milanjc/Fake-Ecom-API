@@ -1,8 +1,14 @@
 {
-    "type": "Notification_container",
-    "title": "popular",
-    "end_point": "/popular-product",
-    "dlink": "",  
-    "order": 0 ,
-  "images" : ["https://thumbs.dreamstime.com/b/word-implementation-text-made-dice-yellow-background-word-implementation-text-made-dice-yellow-background-181545038.jpg"]
-  }
+    "status": "200",
+    "message": "Advertise data get successful",
+    "data": [
+        {
+            "id": 1,
+            "title": "first advertise",
+            "description": "this is the first advertise",
+            "image": "1683525280.PNG",
+            "link": "www.google.com",
+            "status": "active"
+        }
+    ]
+}
