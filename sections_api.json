@@ -8,7 +8,7 @@
             "description": "this is the advertise section",
             "keywords": "ADVERTISE",
             "keyword_option": "",
-            "end_point": "advertise",
+            "end_point": "notification_api.json",
             "order": 1,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
