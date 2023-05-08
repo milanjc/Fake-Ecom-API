@@ -1,12 +1,30 @@
 {
-    "type": "Slider_container",
-    "title": "popular",
-    "end_point": "/popular-product",
-    "dlink": "",  
-    "order": 0 ,
-  "images" : ["https://images.unsplash.com/photo-1606636661598-60b82d8909ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80.jpg",
-"https://images.unsplash.com/photo-1525381098317-fc5822b4c483?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80.jpg",
-"https://images.unsplash.com/photo-1416543974351-c28453497ef4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80.jpg"
-
-]
-  }
+    "status": "200",
+    "message": "Banner data get successful",
+    "data": [
+        {
+            "id": 1,
+            "title": "test1",
+            "description": "this is the test banner1",
+            "image": "https://images.freeimages.com/images/large-previews/71c/seesteg-1639956.jpg",
+            "showtype": "mobile",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "title": "Zara",
+            "description": "this is the test banner1",
+            "image": "https://images.freeimages.com/images/large-previews/895/iq-1000-1641855.jpg",
+            "showtype": "mobile",
+            "status": "active"
+        },
+         {
+            "id": 3,
+            "title": "Zara",
+            "description": "this is the test banner1",
+            "image": "https://images.freeimages.com/images/large-previews/537/new-dawn-1641926.jpg",
+            "showtype": "mobile",
+            "status": "active"
+        }
+    ]
+}
