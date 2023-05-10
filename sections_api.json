@@ -30,7 +30,7 @@
             "description": "this is the categories section",
             "keywords": "CATEGORIES",
             "keyword_option": "",
-            "end_point": "categories",
+            "end_point": "categories_api.json",
             "order": 3,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
