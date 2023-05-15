@@ -1,0 +1,182 @@
+{
+  "status": "200",
+  "message": "Product data getting successfully",
+  "key-word": "MOST-VIEWED",
+  "data": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "subcategory_id": 1,
+      "fabric_id": 1,
+      "color_id": 1,
+      "section_id": 1,
+      "wishlist": "0",
+      "product_name": "red saree",
+      "description": "this is the best project in india",
+      "more_info": "one of the most expensive and best product",
+      "view_count": 75,
+      "status": "active",
+      "product_images": [
+        {
+          "id": 1,
+          "product_id": 1,
+          "image": "16832651990.PNG",
+          "status": "active"
+        },
+        {
+          "id": 2,
+          "product_id": 1,
+          "image": "16832651991.PNG",
+          "status": "active"
+        }
+      ],
+      "product_variants": [
+        {
+          "id": 1,
+          "product_id": 1,
+          "variant_id": 1,
+          "variant_option_id": 1,
+          "price": 500,
+          "qty": 5,
+          "sku": "fsdfsfsdfsfdafafsdfsdfsdf",
+          "weight": 1200,
+          "color": "yellow",
+          "status": "active"
+        },
+        {
+          "id": 2,
+          "product_id": 1,
+          "variant_id": 1,
+          "variant_option_id": 2,
+          "price": 700,
+          "qty": 8,
+          "sku": "dfsdfsdfsdfdsfdsfdsfsdfd",
+          "weight": 1250,
+          "color": "red",
+          "status": "active"
+        }
+      ],
+      "ratings": [
+        {
+          "product_id": 1,
+          "rating_avg": "4.5000"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "subcategory_id": 1,
+      "fabric_id": 1,
+      "color_id": 1,
+      "section_id": 1,
+      "wishlist": "0",
+      "product_name": "red saree",
+      "description": "this is the best project in india",
+      "more_info": "one of the most expensive and best product",
+      "view_count": 150,
+      "status": "active",
+      "product_images": [
+        {
+          "id": 3,
+          "product_id": 2,
+          "image": "16832664210.PNG",
+          "status": "active"
+        },
+        {
+          "id": 4,
+          "product_id": 2,
+          "image": "16832664211.PNG",
+          "status": "active"
+        }
+      ],
+      "product_variants": [
+        {
+          "id": 3,
+          "product_id": 2,
+          "variant_id": 1,
+          "variant_option_id": 1,
+          "price": 500,
+          "qty": 5,
+          "sku": "fsdfsfsdfsfdafafsdfsdfsdf",
+          "weight": 1200,
+          "color": "yellow",
+          "status": "active"
+        },
+        {
+          "id": 4,
+          "product_id": 2,
+          "variant_id": 1,
+          "variant_option_id": 2,
+          "price": 700,
+          "qty": 8,
+          "sku": "dfsdfsdfsdfdsfdsfdsfsdfd",
+          "weight": 1250,
+          "color": "red",
+          "status": "active"
+        }
+      ],
+      "ratings": []
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "subcategory_id": 1,
+      "fabric_id": 1,
+      "color_id": 1,
+      "section_id": 1,
+      "wishlist": "0",
+      "product_name": "red saree",
+      "description": "this is the best project in india",
+      "more_info": "one of the most expensive and best product",
+      "view_count": 62,
+      "status": "active",
+      "product_images": [
+        {
+          "id": 5,
+          "product_id": 3,
+          "image": "16832665350.PNG",
+          "status": "active"
+        },
+        {
+          "id": 6,
+          "product_id": 3,
+          "image": "16832665351.PNG",
+          "status": "active"
+        }
+      ],
+      "product_variants": [
+        {
+          "id": 5,
+          "product_id": 3,
+          "variant_id": 1,
+          "variant_option_id": 1,
+          "price": 500,
+          "qty": 5,
+          "sku": "fsdfsfsdfsfdafafsdfsdfsdf",
+          "weight": 1200,
+          "color": "yellow",
+          "status": "active"
+        },
+        {
+          "id": 6,
+          "product_id": 3,
+          "variant_id": 1,
+          "variant_option_id": 2,
+          "price": 700,
+          "qty": 8,
+          "sku": "dfsdfsdfsdfdsfdsfdsfsdfd",
+          "weight": 1250,
+          "color": "red",
+          "status": "active"
+        }
+      ],
+      "ratings": [
+        {
+          "product_id": 3,
+          "rating_avg": "4.0000"
+        }
+      ]
+    }
+  ]
+}
