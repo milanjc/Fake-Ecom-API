@@ -1,0 +1,175 @@
+{
+  "status": "200",
+  "message": "Product data getting successfully",
+  "key-word": "MOST-VIEWED",
+  "data": [
+    {
+      "id": 4,
+      "category_id": 1,
+      "brand_id": 0,
+      "subcategory_id": 1,
+      "fabric_id": 1,
+      "color_id": 1,
+      "section_id": 1,
+      "wishlist": "0",
+      "product_name": "blue saree",
+      "description": "this is the best project in india",
+      "more_info": "one of the most expensive and best product",
+      "view_count": 2,
+      "status": "active",
+      "product_images": [
+        {
+          "id": 1,
+          "product_id": 4,
+          "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2FyZWV8ZW58MHx8MHx8&w=1000&q=80.jpg",
+          "status": "active"
+        }
+      ],
+      "product_variants": [
+        {
+          "id": 1,
+          "product_id": 4,
+          "variant_id": 1,
+          "variant_option_id": 1,
+          "discount_type": "percentage",
+          "off_price": null,
+          "off_percentage": 30,
+          "original_price": 6000,
+          "discount_price": 4200,
+          "qty": 5,
+          "sku": "fsdfsfsdfsfdafafsdfsdfsdf",
+          "weight": 1200,
+          "color": "yellow",
+          "status": "active"
+        }
+      ],
+      "ratings": []
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "brand_id": 0,
+      "subcategory_id": 1,
+      "fabric_id": 1,
+      "color_id": 1,
+      "section_id": 1,
+      "wishlist": "0",
+      "product_name": "red saree",
+      "description": "this is the best project in india",
+      "more_info": "one of the most expensive and best product",
+      "view_count": 0,
+      "status": "active",
+      "product_images": [
+        {
+          "id": 2,
+          "product_id": 5,
+          "image": "https://images.unsplash.com/photo-1619516388835-2b60acc4049e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80.jpg",
+          "status": "active"
+        }
+      ],
+      "product_variants": [
+        {
+          "id": 2,
+          "product_id": 5,
+          "variant_id": 1,
+          "variant_option_id": 1,
+          "discount_type": "percentage",
+          "off_price": null,
+          "off_percentage": 20,
+          "original_price": 5000,
+          "discount_price": 4000,
+          "qty": 5,
+          "sku": "fsdfsfsdfsfdafafsdfsdfsdf",
+          "weight": 1200,
+          "color": "yellow",
+          "status": "active"
+        }
+      ],
+      "ratings": []
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "brand_id": 0,
+      "subcategory_id": 1,
+      "fabric_id": 1,
+      "color_id": 1,
+      "section_id": 1,
+      "wishlist": "0",
+      "product_name": "blue saree",
+      "description": "this is the best project in india",
+      "more_info": "one of the most expensive and best product",
+      "view_count": 2,
+      "status": "active",
+      "product_images": [
+        {
+          "id": 1,
+          "product_id": 4,
+          "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2FyZWV8ZW58MHx8MHx8&w=1000&q=80.jpg",
+          "status": "active"
+        }
+      ],
+      "product_variants": [
+        {
+          "id": 1,
+          "product_id": 4,
+          "variant_id": 1,
+          "variant_option_id": 1,
+          "discount_type": "percentage",
+          "off_price": null,
+          "off_percentage": 30,
+          "original_price": 6000,
+          "discount_price": 4200,
+          "qty": 5,
+          "sku": "fsdfsfsdfsfdafafsdfsdfsdf",
+          "weight": 1200,
+          "color": "yellow",
+          "status": "active"
+        }
+      ],
+      "ratings": []
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "brand_id": 0,
+      "subcategory_id": 1,
+      "fabric_id": 1,
+      "color_id": 1,
+      "section_id": 1,
+      "wishlist": "0",
+      "product_name": "red saree",
+      "description": "this is the best project in india",
+      "more_info": "one of the most expensive and best product",
+      "view_count": 0,
+      "status": "active",
+      "product_images": [
+        {
+          "id": 2,
+          "product_id": 5,
+          "image": "https://images.unsplash.com/photo-1619516388835-2b60acc4049e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80.jpg",
+          "status": "active"
+        }
+      ],
+      "product_variants": [
+        {
+          "id": 2,
+          "product_id": 5,
+          "variant_id": 1,
+          "variant_option_id": 1,
+          "discount_type": "percentage",
+          "off_price": null,
+          "off_percentage": 20,
+          "original_price": 5000,
+          "discount_price": 4000,
+          "qty": 5,
+          "sku": "fsdfsfsdfsfdafafsdfsdfsdf",
+          "weight": 1200,
+          "color": "yellow",
+          "status": "active"
+        }
+      ],
+      "ratings": []
+    }
+  ]
+}
