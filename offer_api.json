@@ -1,0 +1,16 @@
+{
+  "status": "200",
+  "message": "Offer data get successful",
+  "data": [
+    {
+      "id": 1,
+      "title": "First season offer",
+      "description": "this is the test offer",
+      "image": "https://cdn.shopify.com/s/files/1/1095/2326/products/TB2568A_fd4d9c64-626b-4596-bb10-934949e8e4ea_700x.jpg?v=1657034749.jpg",
+      "discount": "10",
+      "coupon_code": 4040,
+      "link": "https://web.skype.com/?openPstnPage=true",
+      "status": "active"
+    }
+  ]
+}
