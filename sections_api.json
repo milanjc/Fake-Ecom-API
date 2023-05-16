@@ -39,7 +39,7 @@
             "id": 4,
             "title": "trending product",
             "description": "this is the product section",
-            "keywords": "PRODUCT",
+            "keywords": "MOST-VIEWED",
             "keyword_option": "trending_product",
             "end_point": "product",
             "order": 4,
