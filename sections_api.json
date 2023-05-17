@@ -3,17 +3,6 @@
     "message": "Section data get successful",
     "data": [
         {
-            "id": 1,
-            "title": "advertise",
-            "description": "this is the advertise section",
-            "keywords": "ADVERTISE",
-            "keyword_option": "",
-            "end_point": "notification_api.json",
-            "order": 1,
-            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
-            "status": "active"
-        },
-        {
             "id": 2,
             "title": "slider_banner",
             "description": "this is the banner section",
@@ -24,6 +13,18 @@
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
+        {
+            "id": 1,
+            "title": "advertise",
+            "description": "this is the advertise section",
+            "keywords": "ADVERTISE",
+            "keyword_option": "",
+            "end_point": "notification_api.json",
+            "order": 1,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        
         {
             "id": 3,
             "title": "categories",
