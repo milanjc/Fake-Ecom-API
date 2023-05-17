@@ -63,7 +63,7 @@
             "description": "this is the offer section",
             "keywords": "OFFER",
             "keyword_option": "",
-            "end_point": "offer",
+            "end_point": "offer_api.json",
             "order": 6,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
