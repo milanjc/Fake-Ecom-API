@@ -4,17 +4,7 @@
     "data": [
         
        
-         {
-            "id": 2,
-            "title": "SliderBanner",
-            "description": "this is the banner section",
-            "keywords": "SLIDER_BANNER",
-            "keyword_option": "",
-            "end_point": "slider_container.json",
-            "order": 2,
-            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
-            "status": "active"
-        },
+         
         {
             "id": 2,
             "title": "SliderBanner",
