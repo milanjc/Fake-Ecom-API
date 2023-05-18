@@ -2,17 +2,7 @@
     "status": "200",
     "message": "Section data get successful",
     "data": [
-        {
-            "id": 5,
-            "title": "Offer",
-            "description": "this is the offer section",
-            "keywords": "OFFER",
-            "keyword_option": "",
-            "end_point": "offer_api.json",
-            "order": 5,
-            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
-            "status": "active"
-        },
+        
         {
             "id": 2,
             "title": "SliderBanner",
@@ -55,6 +45,17 @@
             "keyword_option": "trending_product",
             "end_point": "product",
             "order": 4,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "title": "Offer",
+            "description": "this is the offer section",
+            "keywords": "OFFER",
+            "keyword_option": "",
+            "end_point": "offer_api.json",
+            "order": 5,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         }
