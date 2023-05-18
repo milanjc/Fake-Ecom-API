@@ -15,6 +15,17 @@
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
+        {
+            "id": 1,
+            "title": "Advertise",
+            "description": "this is the banner section",
+            "keywords": "SLIDER_BANNER",
+            "keyword_option": "",
+            "end_point": "notification_api.json",
+            "order": 2,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
         
         
         {
