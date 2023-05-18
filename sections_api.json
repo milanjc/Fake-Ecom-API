@@ -4,7 +4,7 @@
     "data": [
         {
             "id": 2,
-            "title": "slider_banner",
+            "title": "SliderBanner",
             "description": "this is the banner section",
             "keywords": "SLIDER_BANNER",
             "keyword_option": "",
@@ -15,7 +15,7 @@
         },
         {
             "id": 1,
-            "title": "advertise",
+            "title": "Advertise",
             "description": "this is the advertise section",
             "keywords": "ADVERTISE",
             "keyword_option": "",
@@ -27,7 +27,7 @@
         
         {
             "id": 3,
-            "title": "categories",
+            "title": "Categories",
             "description": "this is the categories section",
             "keywords": "CATEGORIES",
             "keyword_option": "",
@@ -38,7 +38,7 @@
         },
         {
             "id": 4,
-            "title": "trending product",
+            "title": "FestivalEnsemles",
             "description": "this is the product section",
             "keywords": "MOST-VIEWED",
             "keyword_option": "trending_product",
@@ -47,25 +47,15 @@
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
-        {
+        
+       {
             "id": 5,
-            "title": "brand",
-            "description": "this is the brand section",
-            "keywords": "BRAND",
-            "keyword_option": "",
-            "end_point": "brand",
-            "order": 5,
-            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
-            "status": "active"
-        },
-        {
-            "id": 6,
-            "title": "offer",
+            "title": "Offer",
             "description": "this is the offer section",
             "keywords": "OFFER",
             "keyword_option": "",
             "end_point": "offer_api.json",
-            "order": 6,
+            "order": 5,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         }
