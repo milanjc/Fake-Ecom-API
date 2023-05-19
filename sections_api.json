@@ -3,7 +3,17 @@
     "message": "Section data get successful",
     "data": [
         
-       
+        {
+            "id": 1,
+            "title": "Advertise",
+            "description": "this is the banner section",
+            "keywords": "SLIDER_BANNER",
+            "keyword_option": "",
+            "end_point": "notification_api.json",
+            "order": 2,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
          
         {
             "id": 2,
@@ -13,6 +23,42 @@
             "keyword_option": "",
             "end_point": "slider_container.json",
             "order": 2,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+       
+        
+        
+        {
+            "id": 3,
+            "title": "Categories",
+            "description": "this is the categories section",
+            "keywords": "CATEGORIES",
+            "keyword_option": "",
+            "end_point": "categories_api.json",
+            "order": 3,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "title": "FestivalEnsemles",
+            "description": "this is the product section",
+            "keywords": "MOST-VIEWED",
+            "keyword_option": "trending_product",
+            "end_point": "product",
+            "order": 4,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "title": "Offer",
+            "description": "this is the offer section",
+            "keywords": "OFFER",
+            "keyword_option": "",
+            "end_point": "offer_api.json",
+            "order": 5,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -27,6 +73,19 @@
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
+         
+        {
+            "id": 2,
+            "title": "SliderBanner",
+            "description": "this is the banner section",
+            "keywords": "SLIDER_BANNER",
+            "keyword_option": "",
+            "end_point": "slider_container.json",
+            "order": 2,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+       
         
         
         {
