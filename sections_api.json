@@ -68,7 +68,7 @@
             "description": "this is the banner section",
             "keywords": "SLIDER_BANNER",
             "keyword_option": "",
-            "end_point": "notification_api.json",
+            "end_point": "notififcation_api.json",
             "order": 2,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
