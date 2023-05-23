@@ -2,6 +2,17 @@
     "status": "200",
     "message": "Section data get successful",
     "data": [
+         {
+            "id": 2,
+            "title": "banner",
+            "description": "this is the banner section",
+            "keywords": "SliderBanner",
+            "keyword_option": "",
+            "end_point": "slider_container.json",
+            "order": 2,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
         {
             "id": 1,
             "title": "advertise",
@@ -13,17 +24,7 @@
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
-        {
-            "id": 2,
-            "title": "banner",
-            "description": "this is the banner section",
-            "keywords": "SliderBanner",
-            "keyword_option": "",
-            "end_point": "slider_container.json",
-            "order": 2,
-            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
-            "status": "active"
-        },
+       
         {
             "id": 3,
             "title": "categories",
