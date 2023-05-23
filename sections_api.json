@@ -57,6 +57,51 @@
             "order": 6,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
+        },
+           {
+            "id": 2,
+            "title": "banner",
+            "description": "this is the banner section",
+            "keywords": "SliderBanner",
+            "keyword_option": "",
+            "end_point": "slider_container.json",
+            "order": 2,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 3,
+            "title": "categories",
+            "description": "this is the categories section",
+            "keywords": "Categories",
+            "keyword_option": "",
+            "end_point": "categories_api.json",
+            "order": 3,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "title": "trending product",
+            "description": "this is the product section",
+            "keywords": "Product",
+            "keyword_option": "MOST-VIEWED",
+            "end_point": "product",
+            "order": 4,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        
+        {
+            "id": 6,
+            "title": "offer",
+            "description": "this is the offer section",
+            "keywords": "Offer",
+            "keyword_option": "",
+            "end_point": "offer_api.json",
+            "order": 6,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
         }
     ]
 }
