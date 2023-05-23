@@ -46,17 +46,7 @@
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
-        {
-            "id": 5,
-            "title": "brand",
-            "description": "this is the brand section",
-            "keywords": "Brand",
-            "keyword_option": "",
-            "end_point": "brand",
-            "order": 5,
-            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
-            "status": "active"
-        },
+        
         {
             "id": 6,
             "title": "offer",
