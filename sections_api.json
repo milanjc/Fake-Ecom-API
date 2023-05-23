@@ -8,7 +8,7 @@
             "description": "this is the advertise section",
             "keywords": "Advertise",
             "keyword_option": "",
-            "end_point": "advertise",
+            "end_point": "notification_api.json",
             "order": 1,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
@@ -19,7 +19,7 @@
             "description": "this is the banner section",
             "keywords": "SliderBanner",
             "keyword_option": "",
-            "end_point": "banner",
+            "end_point": "slider_container.json",
             "order": 2,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
@@ -30,7 +30,7 @@
             "description": "this is the categories section",
             "keywords": "Categories",
             "keyword_option": "",
-            "end_point": "categories",
+            "end_point": "categories_api.json",
             "order": 3,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
@@ -53,7 +53,7 @@
             "description": "this is the offer section",
             "keywords": "Offer",
             "keyword_option": "",
-            "end_point": "offer",
+            "end_point": "offer_api.json",
             "order": 6,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
