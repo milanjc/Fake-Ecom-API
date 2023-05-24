@@ -19,7 +19,7 @@
             "description": "this is the advertise section",
             "keywords": "Advertise",
             "keyword_option": "",
-            "end_point": "notification_api.json",
+            "end_point": "notification_api",
             "order": 1,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
@@ -30,7 +30,7 @@
             "description": "this is the advertise section",
             "keywords": "Advertise",
             "keyword_option": "",
-            "end_point": "notification_api.json",
+            "end_point": "notification_api",
             "order": 3,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
