@@ -31,7 +31,7 @@
             "keywords": "Advertise",
             "keyword_option": "",
             "end_point": "notification_api.json",
-            "order": 1,
+            "order": 3,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -43,7 +43,7 @@
             "keywords": "Categories",
             "keyword_option": "",
             "end_point": "categories_api.json",
-            "order": 3,
+            "order": 4,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -54,7 +54,7 @@
             "keywords": "Product",
             "keyword_option": "MOST-VIEWED",
             "end_point": "product",
-            "order": 4,
+            "order": 6,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -66,7 +66,7 @@
             "keywords": "Offer",
             "keyword_option": "",
             "end_point": "offer_api.json",
-            "order": 6,
+            "order": 5,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -77,7 +77,7 @@
             "keywords": "SliderBanner",
             "keyword_option": "",
             "end_point": "slider_container.json",
-            "order": 2,
+            "order": 7,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -88,7 +88,7 @@
             "keywords": "Categories",
             "keyword_option": "",
             "end_point": "categories_api.json",
-            "order": 3,
+            "order": 9,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -99,7 +99,7 @@
             "keywords": "Product",
             "keyword_option": "MOST-VIEWED",
             "end_point": "product",
-            "order": 4,
+            "order": 8,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -111,7 +111,7 @@
             "keywords": "Offer",
             "keyword_option": "",
             "end_point": "offer_api.json",
-            "order": 6,
+            "order": 10,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         }
