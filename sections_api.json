@@ -8,7 +8,7 @@
             "description": "this is the banner section",
             "keywords": "SliderBanner",
             "keyword_option": "",
-            "end_point": "slider_container",
+            "end_point": "slider_banner",
             "order": 2,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
@@ -76,7 +76,7 @@
             "description": "this is the banner section",
             "keywords": "SliderBanner",
             "keyword_option": "",
-            "end_point": "slider_container",
+            "end_point": "slider_banner",
             "order": 7,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
