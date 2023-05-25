@@ -1,0 +1,15 @@
+{
+  "status": "200",
+  "message": "Advertise data get successful",
+  "data": [
+    
+  {
+      "id": 3,
+      "title": "third advertise",
+      "description": "this is the second advertise",
+      "image": "https://jysk.co.uk/sites/jysk.uk/files/wysiwyg/top-image_8.jpg",
+      "link": "www.google.com",
+      "status": "active"
+    }
+  ]
+}
