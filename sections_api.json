@@ -108,7 +108,7 @@
             "title": "trending product",
             "description": "this is the product section",
             "keywords": "Product",
-            "keyword_option": "MOST-VIEWED",
+            "keyword_option": "MOST-SEARCHED",
             "end_point": "product",
             "order": 8,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
