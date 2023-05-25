@@ -17,7 +17,7 @@
             "id": 1,
             "title": "advertise",
             "description": "this is the advertise section",
-            "keywords": "Advertise1",
+            "keywords": "Advertise",
             "keyword_option": "",
             "end_point": "notification_api",
             "order": 1,
