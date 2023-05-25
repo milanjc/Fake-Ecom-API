@@ -83,6 +83,17 @@
         },
         {
             "id": 3,
+            "title": "advertise",
+            "description": "this is the advertise section",
+            "keywords": "Advertise",
+            "keyword_option": "",
+            "end_point": "notification_api",
+            "order": 11,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 3,
             "title": "categories",
             "description": "this is the categories section",
             "keywords": "Categories",
