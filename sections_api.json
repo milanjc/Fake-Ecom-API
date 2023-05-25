@@ -3,12 +3,12 @@
     "message": "Section data get successful",
     "data": [
          {
-            "id": 2,
+            "id": 1,
             "title": "banner",
             "description": "this is the banner section",
             "keywords": "SliderBanner",
             "keyword_option": "",
-            "end_point": "slider_container.json",
+            "end_point": "slider_container",
             "order": 2,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
@@ -37,18 +37,18 @@
         },
        
         {
-            "id": 3,
+            "id": 1,
             "title": "categories",
             "description": "this is the categories section",
             "keywords": "Categories",
             "keyword_option": "",
-            "end_point": "categories_api.json",
+            "end_point": "categories_api",
             "order": 4,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
         {
-            "id": 4,
+            "id": 1,
             "title": "trending product",
             "description": "this is the product section",
             "keywords": "Product",
@@ -60,12 +60,12 @@
         },
         
         {
-            "id": 6,
+            "id": 1,
             "title": "offer",
             "description": "this is the offer section",
             "keywords": "Offer",
             "keyword_option": "",
-            "end_point": "offer_api.json",
+            "end_point": "offer_api",
             "order": 5,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
@@ -76,7 +76,7 @@
             "description": "this is the banner section",
             "keywords": "SliderBanner",
             "keyword_option": "",
-            "end_point": "slider_container.json",
+            "end_point": "slider_container",
             "order": 7,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
@@ -93,18 +93,18 @@
             "status": "active"
         },
         {
-            "id": 3,
+            "id": 2,
             "title": "categories",
             "description": "this is the categories section",
             "keywords": "Categories",
             "keyword_option": "",
-            "end_point": "categories_api.json",
+            "end_point": "categories_api",
             "order": 9,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
         {
-            "id": 4,
+            "id": 2,
             "title": "trending product",
             "description": "this is the product section",
             "keywords": "Product",
@@ -116,12 +116,12 @@
         },
         
         {
-            "id": 6,
+            "id": 2,
             "title": "offer",
             "description": "this is the offer section",
             "keywords": "Offer",
             "keyword_option": "",
-            "end_point": "offer_api.json",
+            "end_point": "offer_api",
             "order": 10,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
