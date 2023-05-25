@@ -113,18 +113,6 @@
             "order": 8,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
-        },
-        
-        {
-            "id": 2,
-            "title": "offer",
-            "description": "this is the offer section",
-            "keywords": "Offer",
-            "keyword_option": "",
-            "end_point": "offer_api",
-            "order": 10,
-            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
-            "status": "active"
         }
         
     ]
