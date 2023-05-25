@@ -1,0 +1,38 @@
+{
+    "status": "200",
+    "message": "Banner data get successful",
+    "data": [
+       {
+            "id": 1,
+            "title": "test1",
+            "description": "this is the test banner1",
+            "image": "https://www.asliwholesale.com//images/product/sub_images/2023/03/Shades-Vol-7-Anmol-Asliwholesale-3302-1-2023-03-21_13_47_05.jpg",
+            "showtype": "mobile",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "title": "Zara",
+            "description": "this is the test banner2",
+            "image": "https://www.asliwholesale.com//images/product/sub_images/2023/03/Shades-Vol-7-Anmol-Asliwholesale-3313-12-2023-03-21_13_47_06.jpg",
+            "showtype": "mobile",
+            "status": "active"
+        },
+         {
+            "id": 3,
+            "title": "test1",
+            "description": "this is the test banner3",
+            "image": "https://www.asliwholesale.com//images/product/sub_images/2023/03/Shades-Vol-7-Anmol-Asliwholesale-3302-1-2023-03-21_13_47_05.jpg",
+            "showtype": "mobile",
+            "status": "active"
+        },
+      {
+            "id": 4,
+            "title": "Zara",
+            "description": "this is the test banner4",
+            "image": "https://www.asliwholesale.com//images/product/sub_images/2023/03/Shades-Vol-7-Anmol-Asliwholesale-3313-12-2023-03-21_13_47_06.jpg",
+            "showtype": "mobile",
+            "status": "active"
+        }
+    ]
+}
