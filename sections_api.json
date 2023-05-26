@@ -20,7 +20,7 @@
             "keywords": "Advertise",
             "keyword_option": "",
             "end_point": "notification_api",
-            "order": 1,
+            "order": 5,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -66,7 +66,7 @@
             "keywords": "Offer",
             "keyword_option": "",
             "end_point": "offer_api",
-            "order": 5,
+            "order": 1,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
