@@ -13,7 +13,17 @@
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active",
             "offer": [
-                
+                {
+                    "id": 1,
+                    "section_id": 6,
+                    "title": "offers",
+                    "description": "This is the offer like banner type",
+                    "image": "https://cdn.shopify.com/s/files/1/1095/2326/products/TB2568A_fd4d9c64-626b-4596-bb10-934949e8e4ea_700x.jpg?v=1657034749.jpg",
+                    "coupon_code": 1259,
+                    "link": "http://sdsdfafdsfsdfsdfsdfsdfs.com",
+                    "discount": 10,
+                    "status": "active"
+                }
             ]
         }
     ]
