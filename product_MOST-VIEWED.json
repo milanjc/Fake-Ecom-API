@@ -26,7 +26,22 @@
         }
       ],
       "product_variants": [
-        
+        {
+          "id": 1,
+          "product_id": 4,
+          "variant_id": 1,
+          "variant_option_id": 1,
+          "discount_type": "percentage",
+          "off_price": null,
+          "off_percentage": 30,
+          "original_price": 6000,
+          "discount_price": 4200,
+          "qty": 5,
+          "sku": "fsdfsfsdfsfdafafsdfsdfsdf",
+          "weight": 1200,
+          "color": "yellow",
+          "status": "active"
+        }
       ],
       "ratings": []
     },
