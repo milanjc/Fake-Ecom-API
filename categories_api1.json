@@ -13,62 +13,7 @@
       "dlink": "http://fsdfsfasfsdfsdfsfd.com",
       "status": "active",
       "category": [
-        {
-          "id": 1,
-          "section_id": 3,
-          "title": "kotan saree",
-          "description": "this is the first category",
-          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
-          "status": "active"
-        },
-        {
-          "id": 2,
-          "section_id": 3,
-          "title": "silk saree",
-          "description": "this is the second category",
-          "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
-          "status": "active"
-        },
-        {
-          "id": 3,
-          "section_id": 3,
-          "title": "kotan saree",
-          "description": "this is the second category",
-          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
-          "status": "active"
-        },
-        {
-          "id": 4,
-          "section_id": 3,
-          "title": "silk saree",
-          "description": "this is the second category",
-          "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
-          "status": "active"
-        },
-        {
-          "id": 5,
-          "section_id": 3,
-          "title": "kotan saree",
-          "description": "this is the second category",
-          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
-          "status": "active"
-        },
-        {
-          "id": 6,
-          "section_id": 3,
-          "title": "silk saree",
-          "description": "this is the second category",
-          "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
-          "status": "active"
-        },
-        {
-          "id": 7,
-          "section_id": 3,
-          "title": "kotan saree",
-          "description": "this is the second category",
-          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
-          "status": "active"
-        }
+       
       ]
     }
   ]
