@@ -1,7 +1,6 @@
 {
   "status": "200",
   "message": "Categories data get successful",
-  "check" : true,
   "data": [
     {
       "id": 3,
