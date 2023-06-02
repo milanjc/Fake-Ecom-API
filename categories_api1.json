@@ -1,10 +1,10 @@
 {
   "status": "200",
   "message": "Categories data get successful",
+  "check" : true,
   "data": [
     {
       "id": 3,
-      "check" : true,
       "title": "categories",
       "description": "this is the categories section",
       "keywords": "Categories",
