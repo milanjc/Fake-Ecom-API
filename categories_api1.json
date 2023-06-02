@@ -4,6 +4,7 @@
   "data": [
     {
       "id": 3,
+      "check" : true,
       "title": "categories",
       "description": "this is the categories section",
       "keywords": "Categories",
