@@ -13,33 +13,7 @@
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active",
             "banner": [
-                {
-                    "id": 1,
-                    "section_id": 2,
-                    "title": "new banner",
-                    "description": "this is the first banner",
-                    "image": "https://www.wholesalemarketmumbai.com/userdata/public/gfx/321461.jpg",
-                    "showtype": "desktop",
-                    "status": "active"
-                },
-                {
-                    "id": 2,
-                    "section_id": 2,
-                    "title": "second banner",
-                    "description": "this is the second banner",
-                    "image": "https://i0.wp.com/womenzfashion.in/wp-content/uploads/2021/10/Anmol-Shades-Sarees-Banner.jpg?resize=348%2C215&ssl=1.jpg",
-                    "showtype": "mobile",
-                    "status": "active"
-                },
-              {
-                    "id": 3,
-                    "section_id": 2,
-                    "title": "second banner",
-                    "description": "this is the second banner",
-                    "image": "https://bhawanitextile.com/images/product/sub_images/2021/10/anmol-creations-shades-vol-5-series-3101-3118-embroidered-fancy-sarees-13-2021-10-18_14_47_10.jpeg",
-                    "showtype": "mobile",
-                    "status": "active"
-                }
+                
             ]
         }
     ]
