@@ -43,7 +43,9 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "4.1857"]
     },
     {
       "id": 5,
@@ -85,7 +87,9 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "2.1234"]
     },
     {
       "id": 4,
@@ -127,7 +131,9 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "4.9874"]
     },
     {
       "id": 5,
@@ -169,7 +175,9 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "3.6548"]
     },
     {
       "id": 4,
@@ -211,7 +219,10 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "4.2056"
+      ]
     },
         {
       "id": 5,
@@ -253,7 +264,9 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "1.2156"]
     },
      {
       "id": 4,
@@ -295,7 +308,9 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "5.0132"]
     },
     {
       "id": 5,
@@ -337,7 +352,9 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "3.2321"]
     },
     {
       "id": 4,
@@ -379,7 +396,9 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "4.0000"]
     },
     {
       "id": 5,
@@ -421,7 +440,9 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "6.0000"]
     },
     {
       "id": 4,
@@ -463,7 +484,9 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "2.3200"]
     },
         {
       "id": 5,
@@ -505,7 +528,9 @@
           "status": "active"
         }
       ],
-      "ratings": []
+      "ratings": [
+      "product_id": 1,
+                    "rating_avg": "4.0000"]
     }
 
 
