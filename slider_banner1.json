@@ -19,7 +19,8 @@
                     "title": "new banner",
                     "description": "this is the first banner",
                     "image": "https://www.wholesalemarketmumbai.com/userdata/public/gfx/321461.jpg",
-                    
+                    "showtype": "desktop",
+                    "status": "active"
                 },
                 {
                     "id": 2,
