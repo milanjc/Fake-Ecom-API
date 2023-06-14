@@ -5,6 +5,17 @@
          
         {
             "id": 1,
+            "title": "categories",
+            "description": "this is the categories section",
+            "keywords": "Categories",
+            "keyword_option": "",
+            "end_point": "categories_api",
+            "order": 3,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+        {
+            "id": 1,
             "title": "advertise",
             "description": "this is the advertise section",
             "keywords": "Advertise",
@@ -37,17 +48,6 @@
             "status": "active"
         },
        
-        {
-            "id": 1,
-            "title": "categories",
-            "description": "this is the categories section",
-            "keywords": "Categories",
-            "keyword_option": "",
-            "end_point": "categories_api",
-            "order": 3,
-            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
-            "status": "active"
-        },
         {
             "id": 1,
             "title": "trending product",
