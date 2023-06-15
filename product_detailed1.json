@@ -1,0 +1,315 @@
+{
+    "status": "200",
+    "message": "Product get successful",
+    "product": {
+        "id": 1,
+        "category_id": 1,
+        "subcategory_id": 1,
+        "fabric_id": 1,
+        "color_id": 1,
+        "section_id": 1,
+        "wishlist": "0",
+        "product_name": "red saree",
+        "description": "this is the best project in india",
+        "more_info": "one of the most expensive and best product",
+        "ratings": [
+            {
+                "product_id": 1,
+                "rating_avg": "4.0000"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "user_id": 1,
+                "product_id": 1,
+                "review": "this product is awesome",
+                "image": null
+            },
+            {
+                "id": 2,
+                "user_id": 2,
+                "product_id": 1,
+                "review": "nice product",
+                "image": null
+            },
+            {
+                "id": 3,
+                "user_id": 4,
+                "product_id": 1,
+                "review": "that is the very interesting product",
+                "image": null
+            }
+        ],
+        "product_images": [
+            {
+                "id": 1,
+                "product_id": 1,
+                "image": "46546465464654.png"
+            }
+        ],
+        "product_variants": [
+            {
+                "id": 1,
+                "product_id": 1,
+                "variant_id": 1,
+                "variant_option_id": 1,
+                "discount_type": "price",
+                "off_price": 500,
+                "off_percentage": null,
+                "original_price": 5000,
+                "discount_price": 4500,
+                "qty": 2,
+                "sku": "fdfdgdgfdfgdfgdfg",
+                "weight": 500,
+                "color": "yellow",
+                "variant_options": {
+                        "id": 1,
+                        "option": "M"
+                    }
+
+            },
+          {
+                "id": 2,
+                "product_id": 1,
+                "variant_id": 1,
+                "variant_option_id": 1,
+                "discount_type": "price",
+                "off_price": 500,
+                "off_percentage": null,
+                "original_price": 5000,
+                "discount_price": 4500,
+                "qty": 2,
+                "sku": "fdfdgdgfdfgdfgdfg",
+                "weight": 500,
+                "color": "yellow",
+                "variant_options": {
+                        "id": 1,
+                        "option": "S"
+                    }
+
+            },
+          {
+                "id": 1,
+                "product_id": 1,
+                "variant_id": 1,
+                "variant_option_id": 1,
+                "discount_type": "price",
+                "off_price": 500,
+                "off_percentage": null,
+                "original_price": 5000,
+                "discount_price": 4500,
+                "qty": 2,
+                "sku": "fdfdgdgfdfgdfgdfg",
+                "weight": 500,
+                "color": "red",
+                "variant_options": {
+                        "id": 1,
+                        "option": "M"
+                    }
+
+            },
+          {
+                "id": 1,
+                "product_id": 1,
+                "variant_id": 1,
+                "variant_option_id": 1,
+                "discount_type": "price",
+                "off_price": 500,
+                "off_percentage": null,
+                "original_price": 5000,
+                "discount_price": 4500,
+                "qty": 2,
+                "sku": "fdfdgdgfdfgdfgdfg",
+                "weight": 500,
+                "color": "red",
+                "variant_options": {
+                        "id": 1,
+                        "option": "L"
+                    }
+
+            },
+          {
+                "id": 1,
+                "product_id": 1,
+                "variant_id": 1,
+                "variant_option_id": 1,
+                "discount_type": "price",
+                "off_price": 500,
+                "off_percentage": null,
+                "original_price": 5000,
+                "discount_price": 4500,
+                "qty": 2,
+                "sku": "fdfdgdgfdfgdfgdfg",
+                "weight": 500,
+                "color": "red",
+                "variant_options": {
+                        "id": 1,
+                        "option": "XL"
+                    }
+
+            },
+          {
+                "id": 1,
+                "product_id": 1,
+                "variant_id": 1,
+                "variant_option_id": 1,
+                "discount_type": "price",
+                "off_price": 500,
+                "off_percentage": null,
+                "original_price": 5000,
+                "discount_price": 4500,
+                "qty": 2,
+                "sku": "fdfdgdgfdfgdfgdfg",
+                "weight": 500,
+                "color": "blue",
+                "variant_options": {
+                        "id": 1,
+                        "option": "XL"
+                    }
+
+            },
+          {
+                "id": 1,
+                "product_id": 1,
+                "variant_id": 1,
+                "variant_option_id": 1,
+                "discount_type": "price",
+                "off_price": 500,
+                "off_percentage": null,
+                "original_price": 5000,
+                "discount_price": 4500,
+                "qty": 2,
+                "sku": "fdfdgdgfdfgdfgdfg",
+                "weight": 500,
+                "color": "blue",
+                "variant_options": {
+                        "id": 1,
+                        "option": "L"
+                    }
+
+            },
+          {
+                "id": 1,
+                "product_id": 1,
+                "variant_id": 1,
+                "variant_option_id": 1,
+                "discount_type": "price",
+                "off_price": 500,
+                "off_percentage": null,
+                "original_price": 5000,
+                "discount_price": 4500,
+                "qty": 2,
+                "sku": "fdfdgdgfdfgdfgdfg",
+                "weight": 500,
+                "color": "Brown",
+                "variant_options": null
+
+            }
+        ]
+    },
+    "related_products": [
+        {
+            "id": 2,
+            "category_id": 1,
+            "subcategory_id": 1,
+            "fabric_id": 1,
+            "color_id": 1,
+            "section_id": 1,
+            "wishlist": "0",
+            "product_name": "red saree",
+            "description": "this is the best project in india",
+            "more_info": "one of the most expensive and best product",
+            "product_images": [],
+            "product_variants": []
+        },
+        {
+            "id": 3,
+            "category_id": 1,
+            "subcategory_id": 1,
+            "fabric_id": 1,
+            "color_id": 1,
+            "section_id": 1,
+            "wishlist": "0",
+            "product_name": "red saree",
+            "description": "this is the best project in india",
+            "more_info": "one of the most expensive and best product",
+            "product_images": [],
+            "product_variants": []
+        },
+        {
+            "id": 4,
+            "category_id": 1,
+            "subcategory_id": 1,
+            "fabric_id": 1,
+            "color_id": 1,
+            "section_id": 1,
+            "wishlist": "0",
+            "product_name": "red saree",
+            "description": "this is the best project in india",
+            "more_info": "one of the most expensive and best product",
+            "product_images": [
+                {
+                    "id": 2,
+                    "product_id": 4,
+                    "image": "16855287010.PNG"
+                }
+            ],
+            "product_variants": [
+                {
+                    "id": 2,
+                    "product_id": 4,
+                    "variant_id": 1,
+                    "variant_option_id": 1,
+                    "discount_type": "percentage",
+                    "off_price": null,
+                    "off_percentage": 20,
+                    "original_price": 5000,
+                    "discount_price": 4000,
+                    "qty": 5,
+                    "sku": "fsdfsfsdfsfdafafsdfsdfsdf",
+                    "weight": 1200,
+                    "color": "yellow",
+                    "variant_options": null
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "category_id": 1,
+            "subcategory_id": 1,
+            "fabric_id": 1,
+            "color_id": 1,
+            "section_id": 1,
+            "wishlist": "0",
+            "product_name": "red saree",
+            "description": "this is the best project in india",
+            "more_info": "one of the most expensive and best product",
+            "product_images": [
+                {
+                    "id": 3,
+                    "product_id": 5,
+                    "image": "16855287350.PNG"
+                }
+            ],
+            "product_variants": [
+                {
+                    "id": 3,
+                    "product_id": 5,
+                    "variant_id": 1,
+                    "variant_option_id": 1,
+                    "discount_type": "percentage",
+                    "off_price": null,
+                    "off_percentage": 20,
+                    "original_price": 5000,
+                    "discount_price": 4000,
+                    "qty": 5,
+                    "sku": "fsdfsfsdfsfdafafsdfsdfsdf",
+                    "weight": 1200,
+                    "color": "yellow",
+                    "variant_options": null
+                }
+            ]
+        }
+    ]
+}
