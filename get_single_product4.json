@@ -2,7 +2,7 @@
     "status": "200",
     "message": "Product get successful",
     "product": {
-        "id": 1,
+        "id": 4,
         "category_id": 1,
         "subcategory_id": 1,
         "fabric_id": 1,
