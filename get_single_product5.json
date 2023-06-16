@@ -16,7 +16,8 @@
             {
                 "product_id": 1,
                 "rating_avg": "4.0000"
-            }
+                
+           }
         ],
         "reviews": [
             {
@@ -24,21 +25,26 @@
                 "user_id": 1,
                 "product_id": 1,
                 "review": "this product is awesome",
-                "image": null
+                "image": null,
+                "rating" : "4.0000"
             },
             {
                 "id": 2,
                 "user_id": 2,
                 "product_id": 1,
                 "review": "nice product",
-                "image": null
+                "image": null,
+                                "rating" : "4.0000"
+
             },
             {
                 "id": 3,
                 "user_id": 4,
                 "product_id": 1,
                 "review": "that is the very interesting product",
-                "image": null
+                "image": null,
+                                "rating" : "4.0000"
+
             }
         ],
         "product_images": [
