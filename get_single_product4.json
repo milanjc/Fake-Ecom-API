@@ -78,6 +78,7 @@
                 "sku": "fdfdgdgfdfgdfgdfg",
                 "weight": 500,
                 "color": "yellow",
+                "color_code" : "#F8FF4F",
                 "variant_options": {
                         "id": 1,
                         "option": "M"
@@ -98,6 +99,7 @@
                 "sku": "fdfdgdgfdfgdfgdfg",
                 "weight": 500,
                 "color": "yellow",
+                              "color_code" : "#F8FF4F",
                 "variant_options": {
                         "id": 1,
                         "option": "S"
@@ -118,6 +120,7 @@
                 "sku": "fdfdgdgfdfgdfgdfg",
                 "weight": 500,
                 "color": "red",
+                "color_code":"#E10600",
                 "variant_options": {
                         "id": 1,
                         "option": "M"
@@ -138,6 +141,7 @@
                 "sku": "fdfdgdgfdfgdfgdfg",
                 "weight": 500,
                 "color": "red",
+              "color_code":"#E10600",
                 "variant_options": {
                         "id": 1,
                         "option": "L"
@@ -158,6 +162,7 @@
                 "sku": "fdfdgdgfdfgdfgdfg",
                 "weight": 500,
                 "color": "red",
+              "color_code":"#E10600",
                 "variant_options": {
                         "id": 1,
                         "option": "XL"
@@ -178,6 +183,9 @@
                 "sku": "fdfdgdgfdfgdfgdfg",
                 "weight": 500,
                 "color": "blue",
+                            "color_code":"#4D4DFF",
+
+              
                 "variant_options": {
                         "id": 1,
                         "option": "XL"
@@ -198,6 +206,8 @@
                 "sku": "fdfdgdgfdfgdfgdfg",
                 "weight": 500,
                 "color": "blue",
+                                          "color_code":"#4D4DFF",
+
                 "variant_options": {
                         "id": 1,
                         "option": "L"
@@ -218,6 +228,8 @@
                 "sku": "fdfdgdgfdfgdfgdfg",
                 "weight": 500,
                 "color": "Brown",
+                                          "color_code":"#A94007",
+
                 "variant_options": null
 
             }
