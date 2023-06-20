@@ -258,7 +258,13 @@
             "product_name": "red saree",
             "description": "this is the best project in india",
             "more_info": "one of the most expensive and best product",
-            "product_images": [],
+            "product_images": [
+              {
+                "id": 1,
+                "product_id": 1,
+                "image": "https://www.asliwholesale.com//images/product/sub_images/2023/03/Shades-Vol-7-Anmol-Asliwholesale-3302-1-2023-03-21_13_47_05.jpg"
+            }
+            ],
             "product_variants": []
         },
         {
@@ -272,7 +278,13 @@
             "product_name": "red saree",
             "description": "this is the best project in india",
             "more_info": "one of the most expensive and best product",
-            "product_images": [],
+            "product_images": [
+              {
+                "id": 1,
+                "product_id": 1,
+                "image": "https://www.asliwholesale.com//images/product/sub_images/2023/03/Shades-Vol-7-Anmol-Asliwholesale-3313-12-2023-03-21_13_47_06.jpg"
+            }
+            ],
             "product_variants": []
         },
         {
@@ -287,11 +299,11 @@
             "description": "this is the best project in india",
             "more_info": "one of the most expensive and best product",
             "product_images": [
-                {
-                    "id": 2,
-                    "product_id": 4,
-                    "image": "16855287010.PNG"
-                }
+              {
+                "id": 1,
+                "product_id": 1,
+                "image": "https://www.asliwholesale.com//images/product/sub_images/2023/03/Shades-Vol-7-Anmol-Asliwholesale-3302-1-2023-03-21_13_47_05.jpg"
+            }
             ],
             "product_variants": [
                 {
