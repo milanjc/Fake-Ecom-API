@@ -247,7 +247,13 @@
             "product_name": "red saree",
             "description": "this is the best project in india",
             "more_info": "one of the most expensive and best product",
-            "product_images": [],
+            "product_images": [
+                {
+                "id": 1,
+                "product_id": 1,
+                "image": "https://www.wholesalemarketmumbai.com/userdata/public/gfx/321461.jpg"
+            }
+            ],
             "product_variants": []
         },
         {
@@ -261,7 +267,13 @@
             "product_name": "red saree",
             "description": "this is the best project in india",
             "more_info": "one of the most expensive and best product",
-            "product_images": [],
+            "product_images": [
+                {
+                "id": 1,
+                "product_id": 1,
+                "image": "https://i0.wp.com/womenzfashion.in/wp-content/uploads/2021/10/Anmol-Shades-Sarees-Banner.jpg?resize=348%2C215&ssl=1.jpg"
+            }
+            ],
             "product_variants": []
         },
         {
@@ -277,10 +289,10 @@
             "more_info": "one of the most expensive and best product",
             "product_images": [
                 {
-                    "id": 2,
-                    "product_id": 4,
-                    "image": "16855287010.PNG"
-                }
+                "id": 1,
+                "product_id": 1,
+                "image": "https://bhawanitextile.com/images/product/sub_images/2021/10/anmol-creations-shades-vol-5-series-3101-3118-embroidered-fancy-sarees-13-2021-10-18_14_47_10.jpeg"
+            }
             ],
             "product_variants": [
                 {
@@ -314,10 +326,10 @@
             "more_info": "one of the most expensive and best product",
             "product_images": [
                 {
-                    "id": 3,
-                    "product_id": 5,
-                    "image": "16855287350.PNG"
-                }
+                "id": 1,
+                "product_id": 1,
+                "image": "https://www.wholesalemarketmumbai.com/userdata/public/gfx/321461.jpg"
+            }
             ],
             "product_variants": [
                 {
