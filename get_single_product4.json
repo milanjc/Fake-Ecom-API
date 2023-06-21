@@ -325,9 +325,7 @@
             "product_name": "red saree",
             "description": "this is the best project in india",
             "more_info": "one of the most expensive and best product",
-            "product_images": [
-                
-            ],
+            "product_images": [],
             "product_variants": [
                 {
                     "id": 3,
