@@ -64,6 +64,25 @@
             }
         ],
         "product_variants": [
+             {
+                "id": 1,
+                "product_id": 1,
+                "variant_id": 1,
+                "variant_option_id": 1,
+                "discount_type": "price",
+                "off_price": 500,
+                "off_percentage": null,
+                "original_price": 5000,
+                "discount_price": 4800,
+                "qty": 6,
+                "sku": "fdfdgdgfdfgdfgdfg",
+                "weight": 500,
+                "color": "Brown",
+                                          "color_code":"#A94007",
+
+                "variant_options": null
+
+            },
             {
                 "id": 1,
                 "product_id": 1,
@@ -213,26 +232,8 @@
                         "option": "L"
                     }
 
-            },
-          {
-                "id": 1,
-                "product_id": 1,
-                "variant_id": 1,
-                "variant_option_id": 1,
-                "discount_type": "price",
-                "off_price": 500,
-                "off_percentage": null,
-                "original_price": 5000,
-                "discount_price": 4800,
-                "qty": 6,
-                "sku": "fdfdgdgfdfgdfgdfg",
-                "weight": 500,
-                "color": "Brown",
-                                          "color_code":"#A94007",
-
-                "variant_options": null
-
             }
+         
         ]
     },
     "related_products": [
