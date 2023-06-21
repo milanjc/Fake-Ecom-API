@@ -326,11 +326,7 @@
             "description": "this is the best project in india",
             "more_info": "one of the most expensive and best product",
             "product_images": [
-                {
-                "id": 1,
-                "product_id": 1,
-                "image": "https://www.wholesalemarketmumbai.com/userdata/public/gfx/321461.jpg"
-            }
+                
             ],
             "product_variants": [
                 {
