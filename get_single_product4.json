@@ -96,7 +96,7 @@
                 "sku": "fdfdgdgfdfgdfgdfg",
                 "weight": 500,
                 "color": "yellow",
-                "color_code" : null,
+                "color_code" : "#F8FF4F",
                 "variant_options": {
                         "id": 1,
                         "option": "M"
