@@ -78,8 +78,7 @@
                 "sku": "fdfdgdgfdfgdfgdfg",
                 "weight": 500,
                 "color": "Brown",
-                                          "color_code":null,
-
+                "color_code":"#A94007",
                 "variant_options": null
 
             },
@@ -97,7 +96,7 @@
                 "sku": "fdfdgdgfdfgdfgdfg",
                 "weight": 500,
                 "color": "yellow",
-                "color_code" : "#F8FF4F",
+                "color_code" : null,
                 "variant_options": {
                         "id": 1,
                         "option": "M"
