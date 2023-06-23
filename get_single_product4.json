@@ -79,7 +79,10 @@
                 "weight": 500,
                 "color": "Brown",
                 "color_code":"#A94007",
-                "variant_options": null
+                "variant_options": {
+                        "id": 1,
+                        "option": "Medium"
+                    }
 
             },
             {
