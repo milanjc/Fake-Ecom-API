@@ -5,7 +5,7 @@
          
         {
             "id": 1,
-            "title": "categories",
+            "title": "Categories",
             "description": "this is the categories section",
             "keywords": "Categories",
             "keyword_option": "",
@@ -16,7 +16,7 @@
         },
         {
             "id": 1,
-            "title": "advertise",
+            "title": "dvertise",
             "description": "this is the advertise section",
             "keywords": "Advertise",
             "keyword_option": "",
@@ -50,7 +50,7 @@
        
         {
             "id": 1,
-            "title": "trending product",
+            "title": "Products in trends",
             "description": "this is the product section",
             "keywords": "Product",
             "keyword_option": "MOST-VIEWED",
@@ -95,7 +95,7 @@
         },
         {
             "id": 2,
-            "title": "categories",
+            "title": "Brands",
             "description": "this is the categories section",
             "keywords": "Categories",
             "keyword_option": "",
@@ -106,7 +106,7 @@
         },
         {
             "id": 2,
-            "title": "trending product",
+            "title": "Most searched",
             "description": "this is the product section",
             "keywords": "Product",
             "keyword_option": "MOST-SEARCHED",
