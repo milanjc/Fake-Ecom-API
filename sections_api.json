@@ -16,7 +16,7 @@
         },
         {
             "id": 1,
-            "title": "dvertise",
+            "title": "Advertise",
             "description": "this is the advertise section",
             "keywords": "Advertise",
             "keyword_option": "",
@@ -97,7 +97,7 @@
             "id": 2,
             "title": "Brands",
             "description": "this is the categories section",
-            "keywords": "Categories",
+            "keywords": "Brand",
             "keyword_option": "",
             "end_point": "categories_api",
             "order": 9,
