@@ -16,7 +16,7 @@
         {
           "id": 1,
           "section_id": 3,
-          "title": "cotton saree",
+          "title": "Zara",
           "description": "this is the first category",
           "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
           "status": "active"
@@ -24,7 +24,7 @@
         {
           "id": 2,
           "section_id": 3,
-          "title": "silk saree",
+          "title": "US POLO",
           "description": "this is the second category",
           "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
           "status": "active"
@@ -32,7 +32,7 @@
         {
           "id": 3,
           "section_id": 3,
-          "title": "cotton saree",
+          "title": "H&M",
           "description": "this is the second category",
           "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
           "status": "active"
@@ -40,7 +40,7 @@
         {
           "id": 4,
           "section_id": 3,
-          "title": "silk saree",
+          "title": "Zudio",
           "description": "this is the second category",
           "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
           "status": "active"
@@ -48,7 +48,7 @@
         {
           "id": 5,
           "section_id": 3,
-          "title": "cotton saree",
+          "title": "Allen solley",
           "description": "this is the second category",
           "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
           "status": "active"
@@ -56,7 +56,7 @@
         {
           "id": 6,
           "section_id": 3,
-          "title": "silk saree",
+          "title": "Luise Philliep",
           "description": "this is the second category",
           "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
           "status": "active"
@@ -64,7 +64,7 @@
         {
           "id": 7,
           "section_id": 3,
-          "title": "cotton saree",
+          "title": "Unbelieve",
           "description": "this is the second category",
           "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
           "status": "active"
