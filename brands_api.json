@@ -1,0 +1,75 @@
+{
+  "status": "200",
+  "message": "Brand data get successful",
+  "data": [
+    {
+      "id": 1,
+      "title": "Indie Brands",
+      "description": "this is the brand section",
+      "keywords": "Brand",
+      "keyword_option": "",
+      "end_point": "brand",
+      "order": 5,
+      "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+      "status": "active",
+      "brand": [
+        {
+          "id": 1,
+          "section_id": 3,
+          "title": "Zara",
+          "description": "this is the first category",
+          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
+          "status": "active"
+        },
+        {
+          "id": 2,
+          "section_id": 3,
+          "title": "US POLO",
+          "description": "this is the second category",
+          "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
+          "status": "active"
+        },
+        {
+          "id": 3,
+          "section_id": 3,
+          "title": "H&M",
+          "description": "this is the second category",
+          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
+          "status": "active"
+        },
+        {
+          "id": 4,
+          "section_id": 3,
+          "title": "Zudio",
+          "description": "this is the second category",
+          "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
+          "status": "active"
+        },
+        {
+          "id": 5,
+          "section_id": 3,
+          "title": "Allen solley",
+          "description": "this is the second category",
+          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
+          "status": "active"
+        },
+        {
+          "id": 6,
+          "section_id": 3,
+          "title": "Luise Philliep",
+          "description": "this is the second category",
+          "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
+          "status": "active"
+        },
+        {
+          "id": 7,
+          "section_id": 3,
+          "title": "Unbelieve",
+          "description": "this is the second category",
+          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}
