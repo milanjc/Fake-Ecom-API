@@ -14,6 +14,17 @@
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
+         {
+            "id": 2,
+            "title": "Saree Category",
+            "description": "this is the categories section",
+            "keywords": "Categories",
+            "keyword_option": "",
+            "end_point": "categories_api",
+            "order": 12,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
         {
             "id": 1,
             "title": "Advertise",
@@ -94,13 +105,24 @@
             "status": "active"
         },
         {
-            "id": 2,
-            "title": "Brands",
+            "id": 1,
+            "title": "Indie Brands",
             "description": "this is the categories section",
             "keywords": "Brand",
             "keyword_option": "",
-            "end_point": "categories_api",
+            "end_point": "brands_api",
             "order": 9,
+            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
+            "status": "active"
+        },
+           {
+            "id": 2,
+            "title": "Non-Indie Brands",
+            "description": "this is the categories section",
+            "keywords": "Brand",
+            "keyword_option": "",
+            "end_point": "brands_api",
+            "order": 11,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
