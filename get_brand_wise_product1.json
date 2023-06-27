@@ -1,0 +1,147 @@
+{
+  "status": "200",
+  "message": "Product list get category wise successful",
+  "data": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "brand_id": 1,
+      "subcategory_id": 1,
+      "fabric_id": 1,
+      "color_id": 1,
+      "section_id": 1,
+      "wishlist": "0",
+      "product_name": "red saree",
+      "description": "this is the best project in india",
+      "more_info": "one of the most expensive and best product",
+      "view_count": 17,
+      "status": "active",
+      "product_images": [
+        {
+          "id": 1,
+          "product_id": 1,
+          "image": "https://as2.ftcdn.net/v2/jpg/04/86/72/83/1000_F_486728301_lhMFB3bI9YUF8ht6fUyI1HTzLh4RZ26t.jpg",
+          "status": "active"
+        }
+      ],
+      "product_variants": [
+        {
+          "id": 1,
+          "product_id": 1,
+          "variant_id": 1,
+          "variant_option_id": 1,
+          "discount_type": "price",
+          "off_price": 500,
+          "off_percentage": null,
+          "original_price": 5000,
+          "discount_price": 4500,
+          "qty": 2,
+          "sku": "fdfdgdgfdfgdfgdfg",
+          "weight": 500,
+          "color": "yellow",
+          "status": "active"
+        }
+      ],
+      "ratings": [
+        {
+          "product_id": 1,
+          "rating_avg": "4.0000"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "category_id": 1,
+      "brand_id": 1,
+      "subcategory_id": 1,
+      "fabric_id": 1,
+      "color_id": 1,
+      "section_id": 1,
+      "wishlist": "0",
+      "product_name": "blue saree",
+      "description": "this is the best project in india",
+      "more_info": "one of the most expensive and best product",
+      "view_count": 17,
+      "status": "active",
+      "product_images": [
+        {
+          "id": 1,
+          "product_id": 1,
+          "image": "https://as2.ftcdn.net/v2/jpg/04/15/60/97/1000_F_415609759_AQhkCRzOygKh4YKqm8o7aNRo2GWfu6Yu.jpg",
+          "status": "active"
+        }
+      ],
+      "product_variants": [
+        {
+          "id": 1,
+          "product_id": 1,
+          "variant_id": 1,
+          "variant_option_id": 1,
+          "discount_type": "percentage",
+          "off_price": null,
+          "off_percentage": 10,
+          "original_price": 5000,
+          "discount_price": 4500,
+          "qty": 2,
+          "sku": "fdfdgdgfdfgdfgdfg",
+          "weight": 500,
+          "color": "yellow",
+          "status": "active"
+        }
+      ],
+      "ratings": [
+        {
+          "product_id": 1,
+          "rating_avg": "4.30000"
+        }
+      ]
+    },
+     {
+      "id": 1,
+      "category_id": 1,
+      "brand_id": 1,
+      "subcategory_id": 1,
+      "fabric_id": 1,
+      "color_id": 1,
+      "section_id": 1,
+      "wishlist": "0",
+      "product_name": "red saree",
+      "description": "this is the best project in india",
+      "more_info": "one of the most expensive and best product",
+      "view_count": 17,
+      "status": "active",
+      "product_images": [
+        {
+          "id": 1,
+          "product_id": 1,
+          "image": "https://as2.ftcdn.net/v2/jpg/04/86/72/83/1000_F_486728301_lhMFB3bI9YUF8ht6fUyI1HTzLh4RZ26t.jpg",
+          "status": "active"
+        }
+      ],
+      "product_variants": [
+        {
+          "id": 1,
+          "product_id": 1,
+          "variant_id": 1,
+          "variant_option_id": 1,
+          "discount_type": "price",
+          "off_price": 500,
+          "off_percentage": null,
+          "original_price": 5000,
+          "discount_price": 4500,
+          "qty": 2,
+          "sku": "fdfdgdgfdfgdfgdfg",
+          "weight": 500,
+          "color": "yellow",
+          "status": "active"
+        }
+      ],
+      "ratings": [
+        {
+          "product_id": 1,
+          "rating_avg": "4.0000"
+        }
+      ]
+    }
+  ]
+}
