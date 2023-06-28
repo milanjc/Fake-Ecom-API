@@ -17,7 +17,12 @@
       "view_count": 17,
       "status": "active",
       "product_images": [
-        
+        {
+          "id": 1,
+          "product_id": 1,
+          "image": "https://as2.ftcdn.net/v2/jpg/04/86/72/83/1000_F_486728301_lhMFB3bI9YUF8ht6fUyI1HTzLh4RZ26t.jpg",
+          "status": "active"
+        }
       ],
       "product_variants": [
         {
