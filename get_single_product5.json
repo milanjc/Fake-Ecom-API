@@ -248,7 +248,7 @@
     },
     "related_products": [
         {
-            "id": 2,
+            "id": 5,
             "category_id": 1,
             "subcategory_id": 1,
             "fabric_id": 1,
@@ -268,7 +268,7 @@
             "product_variants": []
         },
         {
-            "id": 3,
+            "id": 4,
             "category_id": 1,
             "subcategory_id": 1,
             "fabric_id": 1,
@@ -288,7 +288,7 @@
             "product_variants": []
         },
         {
-            "id": 4,
+            "id": 5,
             "category_id": 1,
             "subcategory_id": 1,
             "fabric_id": 1,
@@ -325,7 +325,7 @@
             ]
         },
         {
-            "id": 5,
+            "id": 4,
             "category_id": 1,
             "subcategory_id": 1,
             "fabric_id": 1,
