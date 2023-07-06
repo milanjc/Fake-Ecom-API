@@ -12,64 +12,7 @@
       "order": 5,
       "dlink": "http://fsdfsfasfsdfsdfsfd.com",
       "status": "active",
-      "brand": [
-        {
-          "id": 1,
-          "section_id": 3,
-          "title": "Peter England",
-          "description": "this is the first category",
-          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
-          "status": "active"
-        },
-        {
-          "id": 2,
-          "section_id": 3,
-          "title": "Flying Machine",
-          "description": "this is the second category",
-          "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
-          "status": "active"
-        },
-        {
-          "id": 1,
-          "section_id": 3,
-          "title": "Van Heusen",
-          "description": "this is the second category",
-          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
-          "status": "active"
-        },
-        {
-          "id": 2,
-          "section_id": 3,
-          "title": "Zudio",
-          "description": "this is the second category",
-          "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
-          "status": "active"
-        },
-        {
-          "id": 1,
-          "section_id": 3,
-          "title": "Allen solley",
-          "description": "this is the second category",
-          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
-          "status": "active"
-        },
-        {
-          "id": 2,
-          "section_id": 3,
-          "title": "Luise Philliep",
-          "description": "this is the second category",
-          "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
-          "status": "active"
-        },
-        {
-          "id": 1,
-          "section_id": 3,
-          "title": "Unbelieve",
-          "description": "this is the second category",
-          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
-          "status": "active"
-        }
-      ]
+      
     }
   ]
 }
