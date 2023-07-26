@@ -10,7 +10,7 @@
             "keywords": "Categories",
             "keyword_option": "",
             "end_point": "categories_api",
-            "order": 1,
+            "order": 2,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -43,7 +43,7 @@
             "keywords": "SliderBanner",
             "keyword_option": "",
             "end_point": "slider_banner",
-            "order": 2,
+            "order": 1,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
