@@ -10,7 +10,7 @@
             "keywords": "Categories",
             "keyword_option": "",
             "end_point": "categories_api",
-            "order": 2,
+            "order": 9,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -111,7 +111,7 @@
             "keywords": "Brand",
             "keyword_option": "",
             "end_point": "brands_api",
-            "order": 9,
+            "order": 2,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
