@@ -83,18 +83,8 @@
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
-        {
-            "id": 2,
-            "title": "advertise",
-            "description": "this is the advertise section",
-            "keywords": "Advertise",
-            "keyword_option": "",
-            "end_point": "notification_api",
-            "order": 8,
-            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
-            "status": "active"
-        },
-        {
+       
+     {
             "id": 1,
             "title": "Indie Brands",
             "description": "this is the categories section",
