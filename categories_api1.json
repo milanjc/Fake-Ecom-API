@@ -32,41 +32,41 @@
         {
           "id": 1,
           "section_id": 3,
-          "title": "kotan saree",
+          "title": "Kids",
           "description": "this is the second category",
-          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
+          "image": "https://images.unsplash.com/photo-1524503033411-c9566986fc8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80.jpg",
           "status": "active"
         },
         {
           "id": 2,
           "section_id": 3,
-          "title": "silk saree",
+          "title": "Handbags",
           "description": "this is the second category",
-          "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
+          "image": "https://images.unsplash.com/photo-1614179689702-355944cd0918?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80.jpg",
           "status": "active"
         },
         {
           "id": 1,
           "section_id": 3,
-          "title": "kotan saree",
+          "title": "Mackups",
           "description": "this is the second category",
-          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
+          "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80.jpg",
           "status": "active"
         },
         {
           "id": 2,
           "section_id": 3,
-          "title": "silk saree",
+          "title": "Accessories",
           "description": "this is the second category",
-          "image": "http://static.fibre2fashion.com/articleresources/images/88/8776/sari-big_Big.jpg",
+          "image": "https://plus.unsplash.com/premium_photo-1673481767533-60901d9146ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80.jpg",
           "status": "active"
         },
         {
           "id": 1,
           "section_id": 3,
-          "title": "kotan saree",
+          "title": "Home",
           "description": "this is the second category",
-          "image": "http://images.freeimages.com/images/large-previews/49b/shoe-friends-1436939.jpg",
+          "image": "https://images.unsplash.com/photo-1623244307563-f9ade3df13c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80.jpg",
           "status": "active"
         }
       ]
