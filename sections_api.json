@@ -10,7 +10,7 @@
             "keywords": "Categories",
             "keyword_option": "",
             "end_point": "categories_api",
-            "order": 9,
+            "order": 2,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -25,17 +25,7 @@
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
-        {
-            "id": 1,
-            "title": "Advertise",
-            "description": "this is the advertise section",
-            "keywords": "Advertise",
-            "keyword_option": "",
-            "end_point": "notification_api",
-            "order": 3,
-            "dlink": "http://fsdfsfasfsdfsdfsfd.com",
-            "status": "active"
-        },
+      
         {
             "id": 1,
             "title": "banner",
@@ -43,7 +33,7 @@
             "keywords": "SliderBanner",
             "keyword_option": "",
             "end_point": "slider_banner",
-            "order": 1,
+            "order": 3,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -54,7 +44,7 @@
             "keywords": "Advertise",
             "keyword_option": "",
             "end_point": "notification_api",
-            "order": 4,
+            "order": 1,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -66,7 +56,7 @@
             "keywords": "Product",
             "keyword_option": "MOST-VIEWED",
             "end_point": "product",
-            "order": 5,
+            "order": 4,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -111,7 +101,7 @@
             "keywords": "Brand",
             "keyword_option": "",
             "end_point": "brands_api",
-            "order": 2,
+            "order": 5,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
@@ -122,7 +112,7 @@
             "keywords": "Brand",
             "keyword_option": "",
             "end_point": "brands_api",
-            "order": 11,
+            "order": 7,
             "dlink": "http://fsdfsfasfsdfsdfsfd.com",
             "status": "active"
         },
